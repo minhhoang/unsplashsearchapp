@@ -1,0 +1,23 @@
+::-webkit-input-placeholder { /* Edge */
+    color: #ccc;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #ccc;
+}
+
+::placeholder {
+    color: #ccc;
+}
+
+.search-input {
+    padding: 1em 1em; 
+    border: 1px solid #fff;
+    color:#fff;
+    background:none;
+    min-width: 400px;
+    margin-bottom: 3em;
+    font-size: 1em;
+    border-radius: 50px;
+    outline: none;
+}

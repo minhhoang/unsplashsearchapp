@@ -1,0 +1,32 @@
+/* Global */
+.App {
+    text-align: center;
+    padding: 2em;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: 500;
+}
+
+
+/* Header */
+header {
+    padding:2em 0;
+}
+
+
+/* Footer */
+footer {
+	padding: 2em 0;
+}
+
+footer a {
+	color:inherit;
+	text-decoration: underline;
+}
+
+footer a:hover {
+	color: inherit;
+	opacity: 0.65;
+}
